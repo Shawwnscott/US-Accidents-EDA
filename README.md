@@ -9,7 +9,16 @@
 
 - Dataset - https://www.kaggle.com/sobhanmoosavi/us-accidents
 
+## Insights
 
+- No data from New York
+- Miami appears more frequently in terms of recorded accidents
+- The number of accidents per city decreaces/increases exponentially
+- Less than 5% of cities have more than 1000 yearly accidents
+- Over 1100 cities have reported just one accident
+- On sundays the the most accidents tend to happen around 11 AM to 7PM but they happen less frequently in comparision to weekdays
+- Accidents tend to be higher during the weekdays based on data with accidents peaking on fridays
+- A high percentage of accidents occur between 2PM - 5PM
 
 ## Acknowledgements
 
